@@ -1,0 +1,6 @@
+let a = 12;
+if (a>=24){
+    console.log("game is over");
+} else{
+    console.log("i won the game");
+}
